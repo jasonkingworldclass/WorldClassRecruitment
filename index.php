@@ -7,6 +7,6 @@
 
 <body>
 
-<?php echo "Hello World";?>
+<?php echo "Hello World and mars";?>
 </body>
 </html>
